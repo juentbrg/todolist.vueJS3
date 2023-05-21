@@ -1,0 +1,12 @@
+@import './base.css';
+
+#app {
+  max-width: 1400px;
+  font-weight: normal;
+}
+
+body{
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+}
